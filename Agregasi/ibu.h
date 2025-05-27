@@ -7,6 +7,8 @@
 #include "anak.h"
 
 using namespace std;
+
+class anak;
 class ibu
 {
 public:
@@ -26,6 +28,8 @@ public:
     void tambahAnak(anak *pAnak);
     void cetakAnak();
 };
+
+#include "anak.h"
 
 void ibu::tambahAnak(anak *pAnak)
 {

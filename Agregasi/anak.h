@@ -4,7 +4,6 @@
 #include <string>
 #include <vector>
 #include <iostream>
-#include "ibu.h"
 
 using namespace std;
 class anak

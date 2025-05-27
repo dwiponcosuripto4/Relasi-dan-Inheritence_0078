@@ -3,19 +3,7 @@
 
 class anak
 {
-private:
-    /* data */
 public:
-    anak(/* args */);
-    ~anak();
+    string nama;
 };
-
-anak::anak(/* args */)
-{
-}
-
-anak::~anak()
-{
-}
-
 #endif

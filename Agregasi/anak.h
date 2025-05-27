@@ -1,6 +1,12 @@
 #ifndef ANAK_H
 #define ANAK_H
 
+#include <string>
+#include <vector>
+#include <iostream>
+#include "anak.h"
+
+using namespace std;
 class anak
 {
 public:
